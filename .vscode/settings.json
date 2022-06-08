@@ -1,8 +1,16 @@
 {
     "cSpell.words": [
         "Bueller's",
+        "deleteblog",
+        "displayblogs",
+        "displaysingleblog",
+        "firstname",
         "getname",
+        "lastname",
         "myfavoritemovies",
-        "myname"
+        "myname",
+        "postblog",
+        "singleblog",
+        "usernumber"
     ]
 }
